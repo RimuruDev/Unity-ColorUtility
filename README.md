@@ -66,3 +66,8 @@ Suggestions for improvement or feedback are welcome! If you have ideas to enhanc
 License This project is distributed under the MIT License. See the LICENSE file for more details.
 
 Author: RimuruDev
+
+
+### TODO:
+- Added package
+- Fixed docs/readme
